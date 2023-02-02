@@ -1,1 +1,65 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@400;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.containerSection{
+    background-color: #290742;
+    height: 600px;
+    border-bottom: 6px solid #4FFF4B;
+}
+.naviBarContent{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 64px;
+}
+.bttNaviBar{
+    display: flex;
+    gap: 32px;
+    align-items: center;
+}
+.bttNaviBar > a{
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFFFFF;
+    text-decoration: none;
+}
+.bttNaviBar :hover{
+    padding-left: 3px;
+    border-left: 2px solid #4FFF4B;
+}
+.inputSearch{
+    height: 40px;
+    width: 300px;
+    display: flex;
+}
+.textSearch {
+    height: 40px;
+    width: 230px;
+    background-color: #170027;
+    color: #FFFFFF;
+    padding-left: 25px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    border-radius: 4px 0px 0px 4px;
+    border: none;
+}
+.cardImgSearch{
+    height: 40px;
+    width: 70px;
+    background: #9E6DC2;
+    border-radius: 0px 4px 4px 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.imgSearch{
+    height: 24px;
+    width: 24px;
+    
+}
