@@ -1,9 +1,8 @@
 
 # Desafio: RocketBlog
 
-#View Code; https://ronanrood.github.io/desafioRocketBlog/
-
-![Capa.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b8a44149-9ce4-490a-b689-35686ca357b4/Capa.png)
+# View Code 💻
+https://ronanrood.github.io/desafioRocketBlog/
 
 ## **Índice**
 
